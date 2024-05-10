@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @jtagrgh
-- 👀 I’m interested in ...  DEVOPS
-- 🌱 I’m currently learning ... DEVOPS
-- 💞️ I’m looking to collaborate on ... DEVOPS
-- 📫 How to reach me ... AWS
   
 <!---
 jtagrgh/jtagrgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
